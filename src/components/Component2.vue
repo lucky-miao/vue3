@@ -1,0 +1,3 @@
+<template>
+  <h1>hi2</h1>
+</template> 
